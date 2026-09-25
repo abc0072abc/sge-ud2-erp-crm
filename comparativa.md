@@ -14,3 +14,9 @@ El Software Propietario tiene el código fuente cerrado y normalmente se necesit
 La palabra "libre" hace referencia a la libertad del usuario y no al precio. Un programa de software libre puede ser gratuito, pero también se puede cobrar por él o por determinados servicios relacionados.
 
 Por ejemplo, una empresa puede utilizar un programa libre sin pagar por la licencia, pero tener que pagar a un técnico para instalarlo, configurarlo, adaptarlo o darle mantenimiento.
+
+Community frente a Enterprise
+
+La edición Community suele ser la versión más abierta y con menos costes de licencia. Permite utilizar las funciones que incluye y, al estar basada en software libre, ofrece más posibilidades de modificar o adaptar el código.
+
+La edición Enterprise es una versión comercial que añade funcionalidades y servicios que no están disponibles en la Community. Por tanto, normalmente implica un coste de licencia o suscripción, pero puede incluir más herramientas y soporte profesional.
