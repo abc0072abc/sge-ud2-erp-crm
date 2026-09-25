@@ -1,10 +1,10 @@
-# Datos:
+# 1. Datos:
 
 **Palabra del día:** Compañero
 **Propietario:** abc0072abc
 **Empresa:** 12 Academia de idiomas "Speak Up"
 
-# 1.Licencias y modelos
+# 2 .Licencias y modelos
 
 ## Diferencia entre Software Libre (FSF), Código Abierto (OSI) y Propietario
 
@@ -26,7 +26,7 @@ La edición **Community** suele ser la versión más abierta y con menos costes 
 
 La edición **Enterprise** es una versión comercial que añade funcionalidades y servicios que no están disponibles en la Community. Por tanto, normalmente implica un coste de licencia o suscripción, pero puede incluir más herramientas y soporte profesional.
 
-# 2.Fichas técnicas
+# 3 .Fichas técnicas
 
 ## ERP libre: Odoo Community
 
@@ -156,7 +156,7 @@ https://docs.suitecrm.com/8.x/admin/installation-guide/downloading-installing/
 https://help.salesforce.com/s/articleView?id=platform.code_about.htm&language=es&type=5
 https://help.salesforce.com/s/articleView?id=xcloud.getstart_browser_recommendations.htm&type=5
 
-# 3.Fe de erratas del tema
+# 4 .Fe de erratas del tema
 
 ## Oracle ERP Cloud
 
@@ -184,7 +184,7 @@ Actualmente la versión de referencia es **Odoo 19**, publicada en septiembre de
 **Fuente:**
 https://www.odoo.com/es/odoo-19-release-notes
 
-# 4.Matriz de decisión y recomendación
+# 5 .Matriz de decisión y recomendación
 
 Para elegir una solución para **Speak Up**, se han comparado **Odoo Community, SuiteCRM y Microsoft Dynamics 365** según 7 criterios.
 
