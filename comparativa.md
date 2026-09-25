@@ -64,6 +64,8 @@ Dependencias de Python incluidas en requirements.txt.
 En Windows se requieren las herramientas de compilación de C++ de Visual Studio para determinadas dependencias.
 Para la instalación mediante paquetes se necesita un servidor PostgreSQL.
 
+https://www.odoo.com/documentation/19.0/es/applications.html
+
 ## ERP propietario: Microsoft Dynamics 365
 
 Licencia exacta:
@@ -100,6 +102,10 @@ Para la versión cloud, se necesita principalmente:
 Una licencia/suscripción de Dynamics 365.
 Cuenta y entorno de Microsoft/Power Platform.
 Navegador y conexión a Internet.
+
+https://learn.microsoft.com/es-es/dynamics365/
+https://learn.microsoft.com/es-es/dynamics365/customerengagement/on-premises/deploy/software-requirements-for-microsoft-dynamics-365-server?view=op-9-1
+
 
 ## CRM libre: SuiteCRM
 
@@ -145,6 +151,11 @@ MariaDB 10.6/10.11/11.4/11.8 o MySQL 8.0/8.4.
 Para desarrollo también se indican Angular CLI, Node.js y Yarn.
 Es necesario configurar PHP y los módulos PHP requeridos.
 
+https://docs.suitecrm.com/8.x/admin/licensing/
+https://docs.suitecrm.com/es/community/supported-versions/
+https://docs.suitecrm.com/es/8.x/admin/compatibility-matrix/
+https://docs.suitecrm.com/8.x/admin/installation-guide/downloading-installing/
+
 ## CRM propietario: Salesforce
 
 Licencia exacta:
@@ -184,4 +195,32 @@ Navegador compatible.
 JavaScript y cookies activados.
 TLS 1.2 o 1.3.
 Salesforce recomienda utilizar versiones estables actuales de Chrome, Firefox, Edge o Safari.
+
+https://help.salesforce.com/s/articleView?id=platform.code_about.htm&language=es&type=5
+https://help.salesforce.com/s/articleView?id=xcloud.getstart_browser_recommendations.htm&type=5
+
+# Fe de erratas del tema
+
+- Oracle ERP Cloud considerado el mejor según estudios actuales» es una afirmación demasiado general
+
+Diapositiva 8
+
+Qué es correcto:
+La frase es demasiado general porque no indica qué estudio, de qué año ni qué criterios se han utilizado.
+
+Actualmente Oracle ofrece Oracle Fusion Cloud ERP, que sigue siendo una plataforma ERP en la nube y recibe actualizaciones continuas. Oracle también publica informes de analistas en los que aparece reconocido en determinadas categorías, pero eso depende del estudio y de los criterios utilizados. Por ejemplo, Oracle señala que fue reconocido en Gartner Peer Insights 2026 en una categoría concreta de ERP.
+
+Por tanto, sería más correcto decir algo como: "Oracle Fusion Cloud ERP es una solución ERP en la nube y ha recibido reconocimientos en diferentes estudios de analistas".
+
+https://www.oracle.com/es/corporate/analyst-reports/applications/
+
+- La versión de Odoo aparece como 15
+
+Diapositiva 7
+
+Qué es correcto:
+Ese dato está desactualizado. Actualmente la versión de referencia es Odoo 19, publicada en septiembre de 2025. La documentación oficial de Odoo ya está en la versión 19.0.
+
+https://www.odoo.com/es/odoo-19-release-notes
+
 
