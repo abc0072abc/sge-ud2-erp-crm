@@ -223,4 +223,26 @@ Ese dato está desactualizado. Actualmente la versión de referencia es Odoo 19,
 
 https://www.odoo.com/es/odoo-19-release-notes
 
+# Matriz de decisión y recomendación
 
+Para elegir una solución para Speak Up, he comparado Odoo Community, SuiteCRM y Microsoft Dynamics 365 según 7 criterios. Los pesos se han elegido teniendo en cuenta que es una academia pequeña y que necesita principalmente centralizar la información de los alumnos.
+
+Justificación
+
+Odoo Community: obtiene una puntuación alta porque tiene un coste de licencia reducido, muchas funcionalidades y permite centralizar la información de la academia.
+
+SuiteCRM: destaca por la gestión de contactos y seguimiento de alumnos y por tener poca dependencia de un proveedor.
+
+Microsoft Dynamics 365: tiene muchas funcionalidades, buen soporte y capacidad de crecimiento, pero su coste y la dependencia de Microsoft son mayores.
+
+Resultado
+
+Odoo Community	4,55 / 5
+SuiteCRM	    4,15 / 5
+Dynamics 365	3,45 / 5
+
+Recomendación y riesgos
+
+Propongo Odoo Community para Speak Up porque ofrece un buen equilibrio entre coste, funcionalidades y capacidad de adaptación a una academia pequeña.
+
+Los principales riesgos son el coste total de instalación y mantenimiento, la necesidad de contar con soporte técnico, una posible dependencia de la empresa que lo mantenga y las dificultades de una migración futura.
